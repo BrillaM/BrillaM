@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brillam&label=Profile%20views&color=0d6296&style=flat" alt="brillam" /> </p>
 
-- 🌱 I’m currently learning **R and Python**
+- 🌱 I’m currently learning **R , Python and Linux**
 
 - 📫 How to reach me **BRILLAHC1201@GMAIL.COM**
 
